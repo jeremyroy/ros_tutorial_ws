@@ -1,0 +1,10 @@
+*.vscode
+*XDG_CACHE_HOME/
+/build/
+/devel/
+
+/src/*
+!/src/
+!/src/linear_controller/
+!/src/linear_controller_py/
+!/src/CMakeLists.txt
